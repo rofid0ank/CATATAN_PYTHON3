@@ -20,8 +20,3 @@ del(var)
 # mengubah isi variabel
 angka = 10
 angka = 5
-
-
-
-
-
