@@ -15,7 +15,7 @@ d = 10 * 2
 # pangkatan '**'
 e = 5 ** 2
 
-# pembagian bulat
+# pembagian bulat '//'
 f = 10 // 3
 
 
