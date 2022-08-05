@@ -6,11 +6,11 @@ list = ['halo', 'dunia', True]
 
 # index list dari kiri ke kanan
 list = ['saya', 'dia', 'mereka']
-#           0           1           2
+#        0        1        2
 
 # index list dari kanan ke kiri
 list = ['saya', 'dia', 'mereka']
-#           -3           -2           -1
+#        -3        -2        -1
 
 # metode-metode list
 
