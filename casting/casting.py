@@ -17,5 +17,5 @@ z = str(3)
 
 # akan menghasilkan output string
 print(type(x))
-print(typr(y))
-print(typr(z))
+print(type(y))
+print(type(z))
