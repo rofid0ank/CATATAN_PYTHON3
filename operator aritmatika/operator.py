@@ -18,4 +18,6 @@ e = 5 ** 2
 # pembagian bulat '//'
 f = 10 // 3
 
+# sisa bagi '%'
+g = 5 % 2
 
