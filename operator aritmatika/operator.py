@@ -9,7 +9,7 @@ b = 2 - 1
 # pembagian '/'
 c = 20 / 5
 
-# perkalian
+# perkalian '*'
 d = 10 * 2
 
 # pangkatan '**'
